@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|c:\\users\\samuel\\desktop\\js\\c#\\biblioteca\\biblioteca\\biblioteca\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|c:\\users\\samuel\\desktop\\js\\c#\\biblioteca\\biblioteca\\biblioteca\\views\\prestamos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\views\\prestamos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|c:\\users\\samuel\\desktop\\js\\c#\\biblioteca\\biblioteca\\biblioteca\\views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|c:\\users\\samuel\\desktop\\js\\c#\\biblioteca\\biblioteca\\biblioteca\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|c:\\users\\samuel\\desktop\\js\\c#\\biblioteca\\biblioteca\\biblioteca\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|c:\\users\\samuel\\desktop\\js\\c#\\biblioteca\\biblioteca\\biblioteca\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|c:\\users\\samuel\\desktop\\js\\c#\\biblioteca\\biblioteca\\biblioteca\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|c:\\users\\samuel\\desktop\\js\\c#\\biblioteca\\biblioteca\\biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{428D23D2-ED4A-475E-8A47-079E0E32063E}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\Views\\Reporte\\Index.cshtml",
+              "RelativeDocumentMoniker": "biblioteca\\Views\\Reporte\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\Views\\Reporte\\Index.cshtml",
+              "RelativeToolTip": "biblioteca\\Views\\Reporte\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T13:19:14.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "biblioteca\\Controllers\\ReporteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:19:03.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrestamosController.cs",
+              "DocumentMoniker": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\Controllers\\PrestamosController.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Controllers\\PrestamosController.cs",
+              "ToolTip": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\Controllers\\PrestamosController.cs",
+              "RelativeToolTip": "biblioteca\\Controllers\\PrestamosController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:20:58.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "biblioteca\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\Properties\\launchSettings.json",
+              "RelativeToolTip": "biblioteca\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T12:32:19.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\Views\\Prestamos\\Index.cshtml",
+              "RelativeDocumentMoniker": "biblioteca\\Views\\Prestamos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\Views\\Prestamos\\Index.cshtml",
+              "RelativeToolTip": "biblioteca\\Views\\Prestamos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T12:23:15.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "biblioteca\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "biblioteca\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T12:23:23.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "biblioteca\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "biblioteca\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T12:23:26.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\appsettings.json",
+              "RelativeDocumentMoniker": "biblioteca\\appsettings.json",
+              "ToolTip": "C:\\Users\\SAMUEL\\Desktop\\JS\\C#\\biblioteca\\biblioteca\\biblioteca\\appsettings.json",
+              "RelativeToolTip": "biblioteca\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T12:24:56.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

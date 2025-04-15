@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Nuevo Préstamo";
+}
+
+<div class="container">
+    <h2>@ViewData["Title"]</h2>
+
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger">@TempData["Error"]</div>
+    }
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">@TempData["Success"]</div>
+    }
+
+    <form asp-action="Create" method="post">
+        <div class="form-group">
+            <label>Usuario</label>
+            <select name="usuarioId" class="form-control" required>
+                @foreach (var usuario in ViewBag.Usuarios)
+                {
+                    <option value="@usuario.UsuarioID">@usuario.Nombres @usuario.Apellidos (@usuario.TipoUsuario)</option>
+                }
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>Libro</label>
+            <select name="libroId" class="form-control" required>
+                @foreach (var libro in ViewBag.Libros)
+                {
+                    <option value="@libro.LibroID">@libro.Nombre - @libro.Autor</option>
+                }
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>Tipo de Préstamo</label>
+            <select name="tipoPrestamo" class="form-control" required>
+                <option value="Biblioteca">Lectura en biblioteca</option>
+                <option value="Domicilio">Préstamo a domicilio</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Registrar Préstamo</button>
+    </form>
+</div>
